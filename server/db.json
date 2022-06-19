@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Aprender React",
+      "responsible": "Pepe",
+      "isCompleted": false
+    },
+    {
+      "id": 2,
+      "title": "Aprender Redux",
+      "responsible": "Alperote",
+      "isCompleted": false
+    },
+    {
+      "id": 3,
+      "title": "Encontrar trabajo",
+      "responsible": "Alejandro",
+      "isCompleted": false
+    },
+    {
+      "title": "Dormir",
+      "responsible": "Alejandro",
+      "id": 4,
+      "isCompleted": false
+    }
+  ]
+}
